@@ -17,7 +17,8 @@ export default {
       },
     ],
     numeroUnidad: '1',
-    tituloUnidad: 'Titulo de la unidad',
+    tituloUnidad:
+      'Derechos relacionados con la actividad laboral y contratación',
   },
   menuPrincipal: {
     menu: [
@@ -31,44 +32,21 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Unidad',
+        titulo: 'Actividad laboral',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Título de segundo nivel',
+            titulo: 'Derecho administrativo y su relación con la contratación',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Acordeón',
+            titulo:
+              'Derecho administrativo en el ámbito laboral y de la contratación ',
             hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Slider',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Pestañas',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Infografia interactiva',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Infografia interactiva',
-            hash: 't_1_6',
           },
         ],
       },
@@ -76,38 +54,28 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Unidad',
+        titulo:
+          'Concepto de Derecho tributario y su relación con la contratación',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Texto destacado',
+            titulo: 'Evolución del derecho tributario',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Llamado a la acción - Recursos externos',
+            titulo: 'Relación entre el Derecho tributario y la contratación',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Audios',
+            titulo:
+              'Importancia de la relación entre el derecho tributario y la contratación',
             hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Listado',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Línea de tiempo',
-            hash: 't_2_5',
           },
         ],
       },
@@ -115,20 +83,14 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Unidad',
+        titulo: 'Concepto de Derecho laboral y su relación con la contratación',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Carrusel',
+            titulo: 'Relación entre el Derecho laboral y la contratación',
             hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Tablas',
-            hash: 't_3_2',
           },
         ],
       },
@@ -170,109 +132,138 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Ávalos, E. Buteler, A. & Massimino, L. (2014). Derecho administrativo 1 (ed.). Alveroni Ediciones.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/78472',
+    },
+    {
+      referencia:
+        'Organización Internacional del Trabajo. (2021). Perspectivas sociales y del empleo en el mundo: El papel de las plataformas digitales en la transformación del mundo del trabajo.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.ilo.org/global/research/global-reports/weso/2021/lang--es/index.htm',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Departamento Administrativo Nacional de Estadística. (2023). Boletín técnico: Gran Encuesta Integrada de Hogares (GEIH) - Empleo informal y seguridad social, octubre - diciembre 2023.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-oct-dic2023.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Congreso de Colombia. (1950). Código Sustantivo del Trabajo [Decreto Ley 2663 de 1950]. Actualizado hasta 2023.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.suin-juriscol.gov.co/viewdocument.asp?ruta=codigo/30019323',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Asamblea Nacional Constituyente de Colombia. (1991). Constitución Política de Colombia. Actualizado hasta 2023.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Constitucion/1687988',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Congreso de Colombia. (1993). Ley 80 de 1993: Por la cual se expide el Estatuto General de Contratación de la Administración Pública. Diario Oficial No. 41.094.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1790106',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Congreso de Colombia. (2002). Ley 734 de 2002: Por la cual se expide el Código Disciplinario Único. Diario Oficial No. 44.699.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1667339',
+    },
+    {
+      referencia:
+        'Troya Jaramillo, J. V. (2014). Manual de Derecho Tributario (ed.). Corporación de Estudios y Publicaciones.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/115041',
+    },
+    {
+      referencia:
+        'Organización para la Cooperación y el Desarrollo Económicos. (2016). Proyecto de la OCDE y del G-20 sobre la Erosión de la Base Imponible y el Traslado de Beneficios.',
+      link:
+        'https://www.oecd.org/es/publications/proyecto-de-la-ocde-y-del-g-20-sobre-la-erosion-de-la-base-imponible-y-el-traslado-de-beneficios_24156108.html',
+    },
+    {
+      referencia:
+        'Capón Filas, R. (1998). Derecho del trabajo (ed.). Librería Editora Platense S.R.L.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/66572',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (1915). Ley 57 de 1915: Por la cual se establece el régimen para el servicio de correo y telégrafos en el país. Diario Oficial.',
+      link:
+        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1609446',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Cesantías',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Prestación social destinada a garantizar la estabilidad económica del trabajador en caso de desempleo, acumulada anualmente y regulada por el sistema laboral colombiano.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Contrato Laboral',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Acuerdo bilateral entre empleador y trabajador en el que se establecen las condiciones de la relación laboral, sujeto a las normas del Código Sustantivo del Trabajo.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Contratación Administrativa',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Proceso por el cual las entidades públicas celebren contratos con particulares para adquirir bienes, servicios o realizar obras, regulado por el Derecho administrativo.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Derecho Administrativo',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Rama del Derecho Público que regula la estructura y funciones de la administración pública, así como las relaciones entre el Estado y los particulares.',
     },
     {
-      termino: 'Moda',
+      termino: 'Derecho Laboral',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Conjunto de normas jurídicas que regulan las relaciones entre empleadores y trabajadores, garantizando el cumplimiento de derechos y deberes recíprocos.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Derecho Tributario',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Rama del Derecho que regula la creación, recaudación y administración de tributos, con incidencia en los procesos de contratación laboral y administrativa.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Equidad Salarial',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Principio que exige la igualdad de remuneración para trabajadores que desempeñen funciones similares, sin discriminación por género, edad o condición social.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Modalidades de Contratación',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Diversos tipos de procesos contractuales establecidos por la normativa para regular la adquisición de bienes y servicios en el sector público.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Negociación Colectiva',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Procedimiento legal mediante el cual trabajadores y empleadores acuerdan condiciones laborales mediante representantes autorizados.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Prestaciones Sociales',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Beneficios adicionales al salario que el empleador debe otorgar al trabajador, tales como primas, cesantías y seguridad social.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Principio de Favorabilidad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Norma que ordena interpretar las disposiciones laborales de la manera más beneficiosa para el trabajador en caso de ambigüedad.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Responsabilidad Laboral del Contratista',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Obligación del contratista de garantizar los derechos laborales de los trabajadores que emplea en la ejecución de contratos administrativos.',
+    },
+    {
+      termino: 'Seguridad Social Integral',
+      significado:
+        'Sistema que garantiza el acceso a servicios de salud, pensiones y cobertura por riesgos laborales a todos los trabajadores.',
+    },
+    {
+      termino: 'Transparencia Contractual',
+      significado:
+        'Principio que exige que los procesos de contratación pública sean claros, accesibles y supervisados por la ciudadanía para prevenir irregularidades.',
     },
   ],
   complementario: [

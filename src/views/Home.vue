@@ -22,9 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Esta unidad, Desarrollo Físico y Motor en Niños y Adolescentes, explora los cambios corporales y habilidades motrices clave desde la niñez hasta la adolescencia. Los estudiantes comprenderán cómo factores como genética, nutrición y entorno influyen en el crecimiento y las transformaciones hormonales de la pubertad, lo cual les permitirá apoyar a los jóvenes en cada etapa de su desarrollo.
+              p.descripcion.mb-4 La legislación laboral es un pilar fundamental para la regulación de las relaciones entre empleadores y trabajadores, garantizando los derechos y deberes de ambas partes en el ámbito laboral. En esta unidad, se analizarán las principales normas que conforman el marco jurídico laboral en Colombia, como el Código Sustantivo del Trabajo y la Ley 50 de 1990, así como los derechos fundamentales de los trabajadores reconocidos por la Constitución Política.
 
-              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡El éxito está en cada esfuerzo que haces hoy!
+              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárate para comprender el marco normativo que protege y regula las relaciones laborales en Colombia, asegurando el bienestar y los derechos de todos los actores del mercado laboral!
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
@@ -146,11 +146,11 @@ export default {
 .iniciar-btn-container
   .iniciar-btn-text
     transition: all 0.25s ease-in-out
-    background-color: #9EF0FD !important
+    background-color: #88BBA9 !important
     color: #0B0A0A !important
   .icon
     transition: all 0.25s ease-in-out
-    background-color: #083E61 !important
+    background-color: #4A665C !important
   &:hover
     .icon
       transform: scale(1.06)

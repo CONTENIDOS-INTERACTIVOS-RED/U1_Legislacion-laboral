@@ -2,9 +2,9 @@
 .curso-main-container.creditos-vista
   BannerInterno(subTitulo="SÍNTESIS")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-4.mb-md-5 La unidad I:  Introducción al derecho y sus fuentes, establece los fundamentos teóricos esenciales para comprender el origen de las normas jurídicas y su aplicación. 
+    p.mb-4.mb-md-5 La unidad 1: Derechos relacionados con la actividad laboral y contratación, ofrece un marco esencial para comprender las normas que regulan las relaciones laborales en Colombia. A través de esta unidad, se estudian los derechos fundamentales reconocidos en el ámbito laboral, las obligaciones de empleadores y trabajadores, y la importancia de la formalización del empleo. Además, se analizan aspectos clave del Derecho administrativo y tributario relacionados con la contratación, asegurando que los procesos laborales se desarrollen de manera justa, transparente y conforme a la ley. Este enfoque permite a los estudiantes adquirir las herramientas necesarias para identificar y aplicar las disposiciones legales en distintos contextos laborales, garantizando el respeto por los derechos y la equidad en el entorno laboral.
     figure
-      img(src='@/assets/componentes/sintesis-test.png', alt='Texto que describa la imagen')
+      img(src='@/assets/componentes/sintesis.png', alt='Texto que describa la imagen')
     
 
 </template>
