@@ -10,9 +10,9 @@
         .col-12.col-xl-8.d-flex.pe-4.pe-xl-5.align-items-center.flex-column(data-aos="fade-right")
           h2.mb-4.pb-2.me-auto Actividad laboral 
           p.mb-5 En el PDF Actividad laboral, se abordan los principales retos del mercado laboral en Colombia, incluyendo la informalidad, la protección de los derechos laborales y las estrategias de formalización del empleo. Asimismo, se exploran los estándares internacionales que garantizan condiciones dignas de trabajo y su importancia para avanzar hacia un entorno laboral más equitativo e inclusivo.
-          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/nombre.pdf')" target="_blank")
+          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/Anexos_Actividad laboral.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
-            p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong>Actividad laboral 
+            p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Actividad laboral.
         .d-none.d-xl-block.col-xl-4.mx-auto.mt-4.mt-xl-0(data-aos="fade-left")
           img.h-100(src='@/assets/curso/unidad/img-4.png', alt='Texto que describa la imagen')
 

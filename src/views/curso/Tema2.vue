@@ -9,7 +9,7 @@
         .col-12.col-xl-8.d-flex.pe-4.pe-xl-5.align-items-center.flex-column(data-aos="fade-right")
           h2.mb-4.pb-2.me-auto Derecho tributario 
           p.mb-5 En el PDF Derecho tributario, se profundiza en los principios que rigen esta rama del derecho, como la equidad y la progresividad, y se analiza cómo el sistema tributario colombiano aplica estas normas para asegurar una distribución justa de la carga fiscal. Además, se abordan las implicaciones del Derecho tributario internacional y los esfuerzos por evitar la doble tributación y promover prácticas fiscales transparentes.
-          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/nombre.pdf')" target="_blank")
+          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/Anexos_Derecho tributario.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong>Derecho tributario.
         .d-none.d-xl-block.col-xl-4.mx-auto.mt-4.mt-xl-0(data-aos="fade-left")
@@ -81,7 +81,7 @@
         .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column(data-aos="fade-right")
           h2.mb-4.pb-2.me-auto Relación entre el Derecho tributario y la contratación 
           p.mb-5 En el PDF Relación entre el Derecho tributario y la contratación, se analiza cómo los procesos de contratación, especialmente en el ámbito público, contribuyen al fortalecimiento del sistema tributario mediante el cumplimiento de obligaciones fiscales por parte de los contratistas. Asimismo, se destacan los mecanismos legales que previenen la evasión fiscal y promueven la eficiencia en la recaudación de impuestos, asegurando que los recursos del Estado sean utilizados de manera equitativa y responsable.
-          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="zoom-in" :href="obtenerLink('/downloads/Anexos_Relación entre el derecho tributario y la contratación.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Relación entre el Derecho tributario y la contratación.
         .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="fade-left")
